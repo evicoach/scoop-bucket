@@ -1,0 +1,24 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/evicoach/castle/releases/download/v0.1.0/castle_0.1.0_windows_amd64.zip",
+            "bin": [
+                "castle.exe",
+                "clogs.exe"
+            ],
+            "hash": "8a197f045fe8b2e3e83da51d1a4a2569e2beed6f04dbedda05a293be804d8515"
+        },
+        "arm64": {
+            "url": "https://github.com/evicoach/castle/releases/download/v0.1.0/castle_0.1.0_windows_arm64.zip",
+            "bin": [
+                "castle.exe",
+                "clogs.exe"
+            ],
+            "hash": "b7774da77b9298c8623c39463877650dfb9c51f94d283f99bb46f110242f2bfd"
+        }
+    },
+    "homepage": "https://github.com/evicoach/castle",
+    "license": "MIT",
+    "description": "View and follow private AKS app logs through Azure Bastion"
+}
