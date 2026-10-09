@@ -1,21 +1,21 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/evicoach/castle/releases/download/v0.1.0/castle_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/evicoach/castle/releases/download/v0.1.1/castle_0.1.1_windows_amd64.zip",
             "bin": [
                 "castle.exe",
                 "clogs.exe"
             ],
-            "hash": "8a197f045fe8b2e3e83da51d1a4a2569e2beed6f04dbedda05a293be804d8515"
+            "hash": "8a943be9b59df9cb6fcb8dd24a60d3a3ae6ab127cafd64fe6e17a60020d8d767"
         },
         "arm64": {
-            "url": "https://github.com/evicoach/castle/releases/download/v0.1.0/castle_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/evicoach/castle/releases/download/v0.1.1/castle_0.1.1_windows_arm64.zip",
             "bin": [
                 "castle.exe",
                 "clogs.exe"
             ],
-            "hash": "b7774da77b9298c8623c39463877650dfb9c51f94d283f99bb46f110242f2bfd"
+            "hash": "e661de89f4e0d4210bc3fa56bf74f0e4fab8a76e3de2e73eeb8e8fcacab52ac4"
         }
     },
     "homepage": "https://github.com/evicoach/castle",
